@@ -1,2 +1,1 @@
-# CodeAlpha_ImageGallery
-PixelVault is an immersive image gallery experience featuring interactive lightbox viewing, smooth animations, responsive layouts, and modern UI design built with HTML, CSS, and JavaScript.
+PixelScape delivers a visually engaging gallery experience through responsive design, dynamic image previews, immersive lightbox interactions, and modern web aesthetics. Live Demo: pixelscape.netlify.app
